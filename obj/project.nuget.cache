@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cdg7su7h/ac=",
+  "success": true,
+  "projectFilePath": "/Users/suneelkumar/Downloads/100. Code/23. Running unit tests in the pipeline/webapp/webapp/webapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/suneelkumar/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/suneelkumar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/suneelkumar/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
